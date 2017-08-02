@@ -1,0 +1,9 @@
+<archetype>
+  <id>json-simple-1.1.1</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
