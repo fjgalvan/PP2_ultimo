@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mycompany.app</groupId>
-  <artifactId>PP2_iteracion1</artifactId>
+  <artifactId>PP2_ultimo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>PP2_iteracion1</name>
+  <name>PP2_iultimo</name>
   <url>http://maven.apache.org</url>
 
   <properties>
